@@ -5,7 +5,9 @@
   "main": "./server",
   "dependencies": {
     "socket.io": "latest",
-    "express": "latest"
+    "express": "latest",
+    "mysql" :"", 
+    "express-myconnection" :""
   },
   "engines": {
     "node": "0.10.x"
